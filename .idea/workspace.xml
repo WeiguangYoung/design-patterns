@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d348737-4beb-4ea5-a3c4-f4f8d839dc20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/creational/builder/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/factory/factory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/decorator/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/factory/builder.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational/factory/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/creational/factory/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-patterns/behavioral/observer.md" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/observer/observer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-patterns/behavioral/observer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-patterns/behavioral/strategy.md" beforeDir="false" afterPath="$PROJECT_DIR$/behavioral/strategy/strategy.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wFjM1lFStzCLE5CKzabujJCwxH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d348737-4beb-4ea5-a3c4-f4f8d839dc20" name="Default Changelist" comment="" />
+      <created>1628061178722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628061178722</updated>
+      <workItem from="1628061179939" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>

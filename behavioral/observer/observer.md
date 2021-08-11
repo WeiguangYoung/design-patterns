@@ -44,4 +44,4 @@ type (
 
 ## Usage
 
-For usage, see [observer/main.go](observer/main.go) or [view in the Playground](https://play.golang.org/p/cr8jEmDmw0).
+For usage, see [observer/main.go](../main.go) or [view in the Playground](https://play.golang.org/p/cr8jEmDmw0).
