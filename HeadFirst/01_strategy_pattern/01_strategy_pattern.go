@@ -1,4 +1,4 @@
-package main
+package strategy
 
 import "fmt"
 
@@ -89,19 +89,5 @@ func (d ModelDuck) display() {
 }
 
 func main() {
-	// 1
-	duck := MallardDuck{}
-	duck.flyBehavior = FlyWithWings{}
-	duck.quackBehavior = Quack{}
 
-	duck.performQuack()
-	duck.performFly()
-
-	// 2
-	duck2 := ModelDuck{}
-	duck2.flyBehavior = FlyNoWay{}
-	duck2.quackBehavior = MuteQuack{}
-	duck2.performFly()
-	duck2.setFlyBehavior(FlyRocketPowered{})
-	duck2.performFly()
 }
